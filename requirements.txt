@@ -1,7 +1,6 @@
 voila
 numpy
 ipywidgets
-IPython.display
 scipy.stats
 pandas
 
