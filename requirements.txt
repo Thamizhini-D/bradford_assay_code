@@ -1,0 +1,13 @@
+jupyter notebook
+voila
+numpy
+matplotlib.pyplot
+io
+%matplotlib widget
+matplotlib.widgets
+ipywidgets
+IPython.display
+scipy.stats
+pandas
+
+
