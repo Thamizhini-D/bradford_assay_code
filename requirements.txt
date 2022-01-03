@@ -1,6 +1,0 @@
-voila
-numpy
-ipywidgets
-pandas
-
-
