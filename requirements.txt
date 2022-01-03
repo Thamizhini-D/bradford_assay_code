@@ -13,3 +13,4 @@ voila-debug==0.0.1
 voila-gridstack 
 widgetsnbextension==3.5.1
 IPython
+ipympl
