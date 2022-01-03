@@ -1,0 +1,31 @@
+ipympl @ file:///home/conda/feedstock_root/build_artifacts/ipympl_1639641988170/work
+ipython @ file:///C:/ci/ipython_1617121002983/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipywidgets==7.6.5
+jupyter==1.0.0
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1616770841739/work
+jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1616615302928/work
+jupyter-contrib-core==0.3.3
+jupyter-contrib-nbextensions==0.5.1
+jupyter-core @ file:///C:/ci/jupyter_core_1612213356021/work
+jupyter-highlight-selected-word==0.2.0
+jupyter-latex-envs==1.4.6
+jupyter-nbextensions-configurator==0.4.1
+jupyter-packaging @ file:///tmp/build/80754af9/jupyter-packaging_1613502826984/work
+jupyter-server==0.1.1
+jupyterlab @ file:///tmp/build/80754af9/jupyterlab_1619133235951/work
+jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1617134334258/work
+jupyterlab-widgets @ file:///tmp/build/80754af9/jupyterlab_widgets_1609884341231/work
+matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
+nbconvert==5.6.1
+nbformat @ file:///tmp/build/80754af9/nbformat_1617383369282/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1618497418457/work
+numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
+pandas @ file:///C:/ci/pandas_1618365634936/work
+scipy @ file:///C:/ci/scipy_1618856128765/work
+tornado @ file:///C:/ci/tornado_1606942392901/work
+voila==0.1.24
+voila-debug==0.0.1
+voila-gridstack @ file:///home/conda/feedstock_root/build_artifacts/voila-gridstack_1617984401638/work
+widgetsnbextension==3.5.1
