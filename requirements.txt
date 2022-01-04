@@ -14,3 +14,4 @@ voila-gridstack
 widgetsnbextension==3.5.1
 IPython
 ipympl
+ipykernel
