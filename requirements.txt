@@ -1,0 +1,12 @@
+voila
+voila-material
+bqplot
+ipykernel
+numpy
+matplotlib
+ipywidgets
+IPython
+scipy
+pandas
+ipympl
+openpyxl
