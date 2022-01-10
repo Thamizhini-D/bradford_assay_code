@@ -2,8 +2,8 @@ voila
 voila-material
 bqplot
 ipykernel
-numpy
-matplotlib
+numpy==1.9.2
+matplotlib==1.4.3
 ipywidgets
 IPython
 scipy
