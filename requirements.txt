@@ -2,7 +2,7 @@ voila
 voila-material
 bqplot
 ipykernel
-numpy==1.9.2
+numpy
 matplotlib
 ipywidgets
 IPython
