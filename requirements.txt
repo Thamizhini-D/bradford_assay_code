@@ -10,4 +10,3 @@ scipy
 pandas
 ipympl
 openpyxl
-base64==3.10.1
