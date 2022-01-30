@@ -5,13 +5,13 @@ This is an interative web-application developed for visualizing and processing e
 
 
 ## Technologies
-- Python
-- Jupyter Notebook
-- Pandas
-- Matplotlib
-- NumPy
-- ipywidgets
-- Voila
+- Python - 3.8.8
+- Jupyter Notebook - 6.3.0
+- Pandas - 1.2.4
+- Matplotlib - 3.3.4
+- NumPy - 1.20.1
+- ipywidgets - 7.6.5
+- Voila - 0.2.16
 - Heroku
 
 ## Launch
