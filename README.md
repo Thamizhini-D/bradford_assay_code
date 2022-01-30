@@ -1,18 +1,18 @@
 # Data processor for the Bradford Assay
 
 ## Introduction
-This application was developed for visualizing and processing experimental data from the Bradford Assay - a widely used assay for protein quantitation in biochemical research.
+This is an interative web-application developed for visualizing and processing experimental data from the Bradford Assay - a widely used assay for protein quantitation in biochemical research.
 
 
 ## Technologies
-Python
-Jupyter Notebook
-Pandas
-Matplotlib
-NumPy
-ipywidgets
-Voila
-Heroku
+- Python
+- Jupyter Notebook
+- Pandas
+- Matplotlib
+- NumPy
+- ipywidgets
+- Voila
+- Heroku
 
 ## Launch
 Deployed on: bradford-data-processor.herokuapp.com/
