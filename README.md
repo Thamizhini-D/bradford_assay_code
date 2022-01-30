@@ -15,7 +15,7 @@ This is an interative web-application developed for visualizing and processing e
 - Heroku
 
 ## Launch
-Deployed on: bradford-data-processor.herokuapp.com/
+Deployed on: https://bradford-data-processor.herokuapp.com/
 
 ## How to use?
 
