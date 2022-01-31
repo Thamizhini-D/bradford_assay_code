@@ -25,7 +25,7 @@ Requirements:
 (Check out the template containing sample data: https://1drv.ms/x/s!Aj5GbYxiY2JqpRYtWiqB6Bbzbztj?e=vZxuJA. 
 This will give you an idea of how to fill the template with experimental data i.e. what to enter in each column. 
 You can download a copy of this file and upload it to the application if you wanna check out how it works.
-Disclaimer: data given in this template are not from any experiment. Just random numbers written to given a demo of how to enter data into the template and how the application processes and displays that data.)
+Disclaimer: data given in this template are not from any experiment. Just random numbers written to provide a demo of how to enter data into the template and how the application processes and displays that data.)
 
 - Web-application: (or) Jupyter Notebook
 
