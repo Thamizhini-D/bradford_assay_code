@@ -1,4 +1,5 @@
-# Data processor for the Bradford Assay
+# ProteoMetrics
+#### Developed for the Bradford Assay
 
 ## Introduction
 This is an interative web-application developed for visualizing and processing experimental data from the Bradford Assay - a widely used assay for protein quantitation in biochemical research.
