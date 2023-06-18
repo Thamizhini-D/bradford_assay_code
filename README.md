@@ -1,6 +1,9 @@
 # Data Processor
 #### Developed for the Bradford Assay
 
+#### Update 18/6/23
+This app does not run on web anymore, at least not on Heroku. Should you need it for data analysis, feel free to download the source code and run it on your Jupyter Notebook. However, it is highly recommended to try out ProteoMetrics, a revamped version of the same tool: https://github.com/Thamizhini-D/ProteoMetHub
+
 ## Introduction
 This is an interative web-application developed for visualizing and processing experimental data from the Bradford Assay - a widely used assay for protein quantitation in biochemical research.
 
