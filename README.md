@@ -1,4 +1,4 @@
-# ProteoMetrics
+# Data Processor
 #### Developed for the Bradford Assay
 
 ## Introduction
